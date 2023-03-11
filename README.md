@@ -8,9 +8,9 @@ All queries have been written and run on **PostgreSQL**.
 ## Project overview:
 Rockbuster stealth is a fictional movie rental company, that used to over stores all over the world. Because of competition from streaming services (Netflix, Amazon and so on), the management team is planning to launch an online video rental service to stay competitive.
 
-My goal, as a data analyst, is to analyze the data within the company relational database management system and help with the launch strategy.
+My goal, as a data analyst, was to analyze the data within the company relational database management system and help with the launch strategy.
 
-Stakeholders need data-driven answers for some **key questions** related to movies, revenue and customers, such as:
+Stakeholders needed data-driven answers for some **key questions** related to movies, revenue and customers, such as:
 - which movies contributed the most/least to revenue gain?
 - what was the average rental duration for all videos? 
 - which countries are Rockbuster customers based in? 
