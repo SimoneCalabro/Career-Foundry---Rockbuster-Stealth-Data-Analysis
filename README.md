@@ -59,6 +59,7 @@ There you will find a detailed overview of every table, containing:
 
 - **Query 1:** Data summary example - (a table data summary using descriptive statistics)
 - **Query 2:** Joining tables (with subquery) - (joining tables and using a subquery to extract the top 10 cities within the top 10 countries)
+- **Query 3:** Common Table Expressions - (using two CTE to create a more complex query)
 
 ## Skills:
 A summary of what I applied during the project:
