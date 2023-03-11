@@ -15,3 +15,7 @@ dfgfgfdg
 diusffusdfsdd
 
 ## Skills:
+fsfsdf
+
+## Resources:
+Tableau link
