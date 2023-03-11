@@ -25,7 +25,18 @@ Tables contain information about film inventory, customers and payments, among o
 For a complete overview of the database structure, please check the [Entity Relationship Diagram](https://github.com/SimoneCalabro/Career-Foundry---Rockbuster-Stealth-Data-Analysis/blob/main/Rockbuster%20ERD.png) contained in the repository.
 
 ## Data dictionary:
-fsdgdfg
+Need extra information about Rockbuster Database?
+
+Please refer to the Data dictionary I created.
+
+There you will find a detailed overview of every table, containing:
+
+- Primary and foreign keys
+- Columns' names
+- Columns' datatypes
+- A short description
+- Columns it links to
+- Columns it links from
 
 ## Datasets:
 fdgdfgfdg
