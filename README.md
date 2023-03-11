@@ -56,16 +56,24 @@ There you will find a detailed overview of every table, containing:
 - Tableau
 
 ## Queries:
-WIP
+
+- Query 1: Summary of data
 
 ## Skills:
 A summary of what I applied during the project:
 
+- Cleaning data:
+  - Checking and handling duplicates
+  - Checking and handling non-uniform data
+  - Checking and handling incorrect or missing data
 - CRUD operations (Create, Read, Update, Delete)
+- Aliasing
 - Ordering and grouping data
+- Aggregating data (COUNT, MAX, MIN, SUM, AVG)
 - Sorting and limiting data
-- Filtering data with WHERE and HAVING clause
+- Filtering data with WHERE (+ operators: BETWEEN, NOT, OR, IN, LIKE) and HAVING clause
 - Using CASE statements
+- Creating a VIEW
 - Joining tables
 - Creating subqueries
 - Creating common table expressions
