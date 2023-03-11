@@ -57,7 +57,7 @@ There you will find a detailed overview of every table, containing:
 
 ## Queries:
 
-- Query 1: Summary of data
+- **Query 1:** ata summary example - (a table data summary using descriptive statistics)
 
 ## Skills:
 A summary of what I applied during the project:
