@@ -22,10 +22,13 @@ Rockbusters' database is made of 15 different tables, in relationship between ea
 
 Tables contain information about film inventory, customers and payments, among other things.
 
-For a complete overview of the database structure, please check the Entity Relationship Diagram contained in the repository.
+For a complete overview of the database structure, please check the [Entity Relationship Diagram](https://github.com/SimoneCalabro/Career-Foundry---Rockbuster-Stealth-Data-Analysis/blob/main/Rockbuster%20ERD.png) contained in the repository.
+
+## Data dictionary:
+fsdgdfg
 
 ## Datasets:
-
+fdgdfgfdg
 
 ## Tools:
 - PostgreSQL
