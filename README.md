@@ -52,4 +52,4 @@ diusffusdfsdd
 fsfsdf
 
 ## Resources:
-Tableau link
+[My tableau profile](https://public.tableau.com/app/profile/simone.calabro) (contains interactive visualizations used to answer key questions)
