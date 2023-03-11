@@ -58,6 +58,7 @@ There you will find a detailed overview of every table, containing:
 ## Queries:
 
 - **Query 1:** Data summary example - (a table data summary using descriptive statistics)
+- **Query 2:** gytyrtyrtyrtu - (joining tables and using a subquery to extract the top 10 cities within the top 10 countries)
 
 ## Skills:
 A summary of what I applied during the project:
