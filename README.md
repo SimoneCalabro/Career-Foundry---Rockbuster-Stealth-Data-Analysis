@@ -17,7 +17,15 @@ Stakeholders needed data-driven answers for some **key questions** related to mo
 - where are customers with a high lifetime value based? 
 - do sales figures vary between geographic regions?
 
-The answers to these questions were provided in a **Power Point presentation** that you can find in the repository or by clicking [here].
+The answers to these questions were provided in a **Power Point presentation** that you can find in the repository or by clicking [here](https://github.com/SimoneCalabro/Career-Foundry---Rockbuster-Stealth-Data-Analysis/blob/main/3.%20Final%20Presentation.pdf).
+
+## Contents:
+The repository contains:
+
+- **1. Rockbuster ERD:** The Entity Relationship Diagram of Rockbuster Database.
+- **2. Data dictionary:** Dictionary containing all necessary informations of database's tables.
+- **3. Final presentation:** My final presentation (Power Point) containing charts and answers to the project's key questions.
+- **4. Queries:** A collection of some of the queries I wrote to extract data from the database.
 
 ## Database:
 Rockbusters' database is made of 15 different tables, in relationship between each other through primary keys and foreign keys.
