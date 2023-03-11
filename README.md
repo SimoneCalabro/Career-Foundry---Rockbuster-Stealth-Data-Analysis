@@ -17,6 +17,8 @@ Stakeholders needed data-driven answers for some **key questions** related to mo
 - where are customers with a high lifetime value based? 
 - do sales figures vary between geographic regions?
 
+The answers to these questions were provided in a **Power Point presentation** that you can find in the repository or by clicking [here].
+
 ## Database:
 Rockbusters' database is made of 15 different tables, in relationship between each other through primary keys and foreign keys.
 
@@ -46,10 +48,19 @@ There you will find a detailed overview of every table, containing:
 - Tableau
 
 ## Queries:
-diusffusdfsdd
+WIP
 
 ## Skills:
-fsfsdf
+A summary of what I applied during the project:
+
+- CRUD operations (Create, Read, Update, Delete)
+- Ordering and grouping data
+- Sorting and limiting data
+- Filtering data with WHERE and HAVING clause
+- Using CASE statements
+- Joining tables
+- Creating subqueries
+- Creating common table expressions
 
 ## Resources:
 [My tableau profile](https://public.tableau.com/app/profile/simone.calabro) (contains interactive visualizations used to answer key questions)
