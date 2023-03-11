@@ -1,0 +1,24 @@
+-- Here I create a subquery (top_ten_countries) containing the top 10 countries in terms of number of customers.
+-- The subquery is then used in the main statement as part of a series of join, to extract the top 10 cities within the top 10 countries.
+
+SELECT C.city,
+       top_ten_countries.country,
+       COUNT(customer_id) AS number_of_customers
+FROM customer A
+INNER JOIN address B ON A.address_id = B.address_id
+INNER JOIN city C ON B.city_id = C.city_id
+INNER JOIN (
+            SELECT D.country_id,
+	                 D.country,
+                   COUNT(customer_id) AS number_of_customers
+            FROM customer A
+            INNER JOIN address B ON A.address_id = B.address_id
+            INNER JOIN city C ON B.city_id = C.city_id
+            INNER JOIN country D ON C.country_id = D.country_id
+            GROUP BY D.country_id
+            ORDER BY number_of_customers DESC
+            LIMIT 10
+) AS top_ten_countries ON C.country_id = top_ten_countries.country_id
+GROUP BY C.city, top_ten_countries.country
+ORDER BY number_of_customers DESC
+LIMIT 10;
