@@ -27,7 +27,7 @@ For a complete overview of the database structure, please check the [Entity Rela
 ## Data dictionary:
 Need extra information about Rockbuster Database?
 
-Please refer to the [Data dictionary](https://github.com/SimoneCalabro/Career-Foundry---Rockbuster-Stealth-Data-Analysis/blob/main/Data%20dictionary.pdf) I created.
+Please refer to the [Data dictionary](https://github.com/SimoneCalabro/Career-Foundry---Rockbuster-Stealth-Data-Analysis/blob/main/2.%20Data%20dictionary.pdf) I created.
 
 There you will find a detailed overview of every table, containing:
 
