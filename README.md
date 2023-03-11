@@ -39,7 +39,7 @@ There you will find a detailed overview of every table, containing:
 - Columns it links from
 
 ## Datasets:
-fdgdfgfdg
+[Rockbuster Database](https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
 
 ## Tools:
 - PostgreSQL
