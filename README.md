@@ -6,7 +6,7 @@ The project was part of the Data Analytics program I attended at Career Foundry.
 All queries have been written and run on **PostgreSQL**.
 
 ## Project overview:
-Rockbuster stealth is a fictional movie rental company, that used to over stores all over the world. Because of competition from streaming services (Netflix, Amazon and so on), the management team is planning to launch an online video rental service to stay competitive.
+Rockbuster stealth is a fictional movie rental company, that used to have stores all over the world. Because of competition from streaming services (Netflix, Amazon and so on), the management team is planning to launch an online video rental service to stay competitive.
 
 My goal, as a data analyst, was to analyze the data within the company relational database management system and help with the launch strategy.
 
