@@ -60,4 +60,4 @@ INNER JOIN country D ON C.country_id = D.country_id
 LEFT JOIN top_customer_count_cte ON D.country = top_customer_count_cte.country
 GROUP BY D.country
 ORDER BY top_customer_count DESC
-LIMIT 5
+LIMIT 5;
